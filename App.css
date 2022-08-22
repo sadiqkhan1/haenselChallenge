@@ -1,0 +1,16 @@
+.data-graph {
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.lorem-ipsum {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.ipsum-btn {
+    margin-left: 20px;
+}
